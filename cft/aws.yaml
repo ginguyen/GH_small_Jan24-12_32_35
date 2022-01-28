@@ -15,6 +15,9 @@ Resources:
             Iops: 200
             DeleteOnTermination: false
             VolumeSize: 20
+      Tags:
+        - Key: yor_trace
+          Value: 68f32cca-cac4-4b46-b502-e63cbda9e8c9
 
 
 
